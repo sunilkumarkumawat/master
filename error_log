@@ -1,0 +1,26 @@
+[20-Mar-2024 08:18:26 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-Mar-2024 08:18:26 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.1.33. in /home/eplanetacademy/public_html/erp/vendor/composer/platform_check.php on line 24
+[20-Mar-2024 08:18:26 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[28-Mar-2024 12:08:32 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\offline_exam\AdmitCardController::downloadAdmitCard() in /home/eplanetacademy/public_html/erp/app/Http/Controllers/offline_exam/AdmitCardController.php on line 147
+[03-Apr-2024 14:55:23 Asia/Kolkata] PHP Fatal error:  Cannot use lexical variable $message as a parameter name in /home/eplanetacademy/public_html/erp/app/Http/Controllers/Sms_ServiceController.php on line 278
+[09-Apr-2024 12:15:20 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Setting as Setting because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/master/BusController.php on line 14
+[09-Apr-2024 12:15:27 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Setting as Setting because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/master/BusController.php on line 14
+[09-Apr-2024 12:16:24 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Setting as Setting because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/master/BusController.php on line 14
+[09-Apr-2024 12:16:33 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Setting as Setting because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/master/BusController.php on line 14
+[09-Apr-2024 12:16:36 Asia/Kolkata] PHP Fatal error:  Cannot use App\Models\Setting as Setting because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/master/BusController.php on line 14
+[13-Apr-2024 12:02:23 Asia/Kolkata] PHP Fatal error:  Cannot use Illuminate\Support\Str as Str because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/StudentsAdmissionController.php on line 51
+[28-Apr-2024 15:07:29 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/eplanetacademy/public_html/erp/app/Http/Controllers/Auth/AuthController.php on line 8
+[28-Apr-2024 15:08:09 Asia/Kolkata] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/eplanetacademy/public_html/erp/app/Http/Controllers/Auth/AuthController.php on line 8
+[30-Apr-2024 16:20:26 Asia/Kolkata] PHP Fatal error:  Cannot use Session as Session because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/Auth/AuthController.php on line 18
+[30-Apr-2024 16:21:02 Asia/Kolkata] PHP Fatal error:  Cannot use Session as Session because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/Auth/AuthController.php on line 18
+[30-Apr-2024 16:21:05 Asia/Kolkata] PHP Fatal error:  Cannot use Session as Session because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/Auth/AuthController.php on line 18
+[07-May-2024 16:08:02 Asia/Kolkata] PHP Fatal error:  Cannot use Redirect as Redirect because the name is already in use in /home/eplanetacademy/public_html/erp/app/Http/Controllers/student_login/ComplaintController.php on line 19
+[07-May-2024 17:33:12 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\StaffController::index() in /home/eplanetacademy/public_html/erp/app/Http/Controllers/StaffController.php on line 251
+[07-May-2024 18:01:00 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Student_login\ComplaintController::startConversation() in /home/eplanetacademy/public_html/erp/app/Http/Controllers/student_login/ComplaintController.php on line 34
+[07-May-2024 18:03:20 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Student_login\ComplaintController::startConversation() in /home/eplanetacademy/public_html/erp/app/Http/Controllers/student_login/ComplaintController.php on line 34
+[07-May-2024 18:03:32 Asia/Kolkata] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Student_login\ComplaintController::startConversation() in /home/eplanetacademy/public_html/erp/app/Http/Controllers/student_login/ComplaintController.php on line 34
+[28-Aug-2024 10:41:18 UTC] PHP Warning:  require_once(/home/rusoft/public_html/sbsnew/public/index.php): Failed to open stream: No such file or directory in /home/rusoft/public_html/sbsnew/index.php on line 21
+[28-Aug-2024 10:41:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/rusoft/public_html/sbsnew/public/index.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/rusoft/public_html/sbsnew/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rusoft/public_html/sbsnew/index.php on line 21
